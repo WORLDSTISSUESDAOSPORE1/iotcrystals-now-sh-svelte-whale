@@ -18,7 +18,7 @@ A repository for the public website for `rws` project
  * Initial planned way to implement user devices platform for executing semi-arbitrary code: a fast optimized custom low-level VM to interact with low-level Android OS internals to make the user experience seamless and friction-free
  * Head cloud interacts with IoT devices VMs
  * 5% of IoT devices VMs tokens income would go to the project RWS DAO stakeholders
- * 75% of project RWS DAO $RWSSTAKE tokens would be pre-minted and pre-allocated to the the core RWS founders team members as stakeholders
+ * 75% of project RWS DAO $RWSSTAKE tokens would be pre-minted and pre-allocated to the the core RWS founders team `rwsfounderscollective` members as stakeholders
  * The `RWSDAO` ways & habits would be borrowed & inherited from the `bisq` blockchain DeFi project. The RWSDAO is planned for the future.
  * RWS DAO token: RWSSTAKE $RWSSTAKE
  * The current free & libre opensource GPLv3-licensed source code is at https://github.com/nonlin-lin-chaos-order-etc-etal/iotcrystals-now-sh-svelte-whale
