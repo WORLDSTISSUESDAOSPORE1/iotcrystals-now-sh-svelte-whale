@@ -21,6 +21,7 @@ A repository for the public website for `rws` project
  * Some of project RWS DAO tokens would be pre-minted and given to the the core RWS founders team members as stakeholders
  * The `RWSDAO` ways & habits would be borrowed & inherited from the `bisq` blockchain DeFi project. The RWSDAO is planned for the future.
  * RWS DAO token: RWSSTAKE $RWSSTAKE
+ * The current free & libre opensource GPLv3-licensed source code is at https://github.com/nonlin-lin-chaos-order-etc-etal/iotcrystals-now-sh-svelte-whale
 
 ## SvelteKit
 
