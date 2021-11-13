@@ -13,7 +13,7 @@ A repository for the public website for `rws` project
  * Initial planned ERC20 RWS token decimal places after comma: 18
  * Initial Ethereum networks for emission: Testnet, then Mainnet
  * Investments to extend R&D and software developers team are welcome!
- * Competing & integrated projects: https://golem.network/ & https://iex.ec/ ; maybe others, too, as research progresses.
+ * Competing & integrated & collaborating projects: https://golem.network/ & https://iex.ec/ ; maybe others, too, as research progresses.
  * Initial planned IoT platform: Android
  * Initial planned way to implement user devices platform for executing semi-arbitrary code: a fast optimized custom low-level VM to interact with low-level Android OS internals to make the user experience seamless and friction-free
  * Head cloud interacts with IoT devices VMs
