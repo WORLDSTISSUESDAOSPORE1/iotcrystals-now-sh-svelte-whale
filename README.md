@@ -19,8 +19,9 @@ A repository for the public website for `rws` project
  * Head cloud interacts with IoT devices VMs
  * 5% of IoT devices VMs tokens income would go to the project RWS DAO stakeholders
  * 75% of project RWS DAO $RWSSTAKE tokens would be pre-minted and pre-allocated to the the core RWS founders team `rwsfounderscollective` members as stakeholders
+ * The rest 25% of project RWS DAO $RWSSTAKE ETH tokens would be 100% allocated to the pool of $RWSOBLIGATIONS ETH tokens holders. $RWSOBLIGATIONS ETH tokens are to be sometimes sold via ETH, USD, etc., and can also be burned if an $RWSOBLIGATIONS token holder chooses to do so. $RWSOBLIGATIONS would add RWS project's revenues as $RWS tokens to the addresses of $RWSOBLIGATIONS holders proportionally to the amount of their $RWSOBLIGATIONS holdings.
  * The `RWSDAO` ways & habits would be borrowed & inherited from the `bisq` blockchain DeFi project. The RWSDAO is planned for the future.
- * RWS DAO token: RWSSTAKE $RWSSTAKE
+ * RWS DAO ETH token: RWSSTAKE $RWSSTAKE
  * The current free & libre opensource GPLv3-licensed source code is at https://github.com/nonlin-lin-chaos-order-etc-etal/iotcrystals-now-sh-svelte-whale
 
 ## SvelteKit
